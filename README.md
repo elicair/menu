@@ -24,19 +24,19 @@ flex-direction: column;
 align-items: flex-start;
 }
 .breakfast {
-background-image: url('https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=400&q=80');
+background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhaAK8sRVCUPCl_M30Z8BYyztBLxdLz4bJmA&s');
 background-size: cover;
 background-repeat: no-repeat;          /* Unique property for breakfast */
 background-position: center center;
 }
 .lunch {
-background-image: url('https://images.unsplash.com/photo-1516684669134-de6f26d2b54b?auto=format&fit=crop&w=400&q=80');
+background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjuvQ3QecvAKKE-TUH4bsmUtg5b3Vv4GyF3w&s');
 background-size: cover;
 background-repeat: repeat-y;          /* Unique property for lunch */
 background-position: left top;
 }
 .dinner {
-background-image: url('https://images.unsplash.com/photo-1519864600265-abb23847ef01?auto=format&fit=crop&w=400&q=80');
+background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR5XEJg4Z6bKfbLNNvHAk27sH9uKqUoU8rkA&s');
 background-size: cover;
 background-repeat: no-repeat;
 background-position: right bottom;    /* Unique property for dinner */
@@ -68,31 +68,31 @@ font-size: 1.12em;
 <div class="menu breakfast">
 <h2>Breakfast</h2>
 <ul>
-<li>Classic Pancakes</li>
-<li>Eggs Benedict</li>
-<li>Bacon & Sausage Platter</li>
-<li>Fresh Fruit Bowl</li>
-<li>Croissants & Pastries</li>
+<li>Pancakes</li>
+<li>bacon and eggs</li>
+<li>biscuts and gravy</li>
+<li>omelette</li>
+<li>hashbrowns with eggs</li>
 </ul>
 </div>
 <div class="menu lunch">
 <h2>Lunch</h2>
 <ul>
-<li>Grilled Chicken Sandwich</li>
-<li>Caesar Salad</li>
-<li>Turkey Club Wrap</li>
-<li>Vegetable Quiche</li>
-<li>Soup of the Day</li>
+<li>cheese burger</li>
+<li>california burger</li>
+<li>philly cheese steak</li>
+<li>hot beef</li>
+<li>roast beef platter</li>
 </ul>
 </div>
 <div class="menu dinner">
 <h2>Dinner</h2>
 <ul>
-<li>Seared Salmon Filet</li>
-<li>Herb Roasted Chicken</li>
-<li>Pasta Primavera</li>
-<li>Grilled Ribeye Steak</li>
-<li>Garlic Mashed Potatoes</li>
+<li>porterhouse steak</li>
+<li>prime rib</li>
+<li>ribeye steak</li>
+<li>avacodo burger</li>
+<li>cheese burger</li>
 </ul>
 </div>
 </div>
