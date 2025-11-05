@@ -61,40 +61,40 @@ padding: 8px 14px;
 border-radius: 7px;
 font-size: 1.12em;
 }
-    </style>
+</style>
 </head>
 <body>
-    <div class="menu-container">
-        <div class="menu breakfast">
-            <h2>Breakfast</h2>
-            <ul>
-                <li>Classic Pancakes</li>
-                <li>Eggs Benedict</li>
-                <li>Bacon & Sausage Platter</li>
-                <li>Fresh Fruit Bowl</li>
-                <li>Croissants & Pastries</li>
-            </ul>
-        </div>
-        <div class="menu lunch">
-            <h2>Lunch</h2>
-            <ul>
-                <li>Grilled Chicken Sandwich</li>
-                <li>Caesar Salad</li>
-                <li>Turkey Club Wrap</li>
-                <li>Vegetable Quiche</li>
-                <li>Soup of the Day</li>
-            </ul>
-        </div>
-        <div class="menu dinner">
-            <h2>Dinner</h2>
-            <ul>
-                <li>Seared Salmon Filet</li>
-                <li>Herb Roasted Chicken</li>
-                <li>Pasta Primavera</li>
-                <li>Grilled Ribeye Steak</li>
-                <li>Garlic Mashed Potatoes</li>
-            </ul>
-        </div>
-    </div>
+<div class="menu-container">
+<div class="menu breakfast">
+<h2>Breakfast</h2>
+<ul>
+<li>Classic Pancakes</li>
+<li>Eggs Benedict</li>
+<li>Bacon & Sausage Platter</li>
+<li>Fresh Fruit Bowl</li>
+<li>Croissants & Pastries</li>
+</ul>
+</div>
+<div class="menu lunch">
+<h2>Lunch</h2>
+<ul>
+<li>Grilled Chicken Sandwich</li>
+<li>Caesar Salad</li>
+<li>Turkey Club Wrap</li>
+<li>Vegetable Quiche</li>
+<li>Soup of the Day</li>
+</ul>
+</div>
+<div class="menu dinner">
+<h2>Dinner</h2>
+<ul>
+<li>Seared Salmon Filet</li>
+<li>Herb Roasted Chicken</li>
+<li>Pasta Primavera</li>
+<li>Grilled Ribeye Steak</li>
+<li>Garlic Mashed Potatoes</li>
+</ul>
+</div>
+</div>
 </body>
 </html>
